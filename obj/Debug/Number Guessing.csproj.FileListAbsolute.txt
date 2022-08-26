@@ -1,0 +1,15 @@
+D:\Projects\Number Guessing\Number Guessing\bin\Debug\Number Guessing.exe.config
+D:\Projects\Number Guessing\Number Guessing\bin\Debug\Number Guessing.exe
+D:\Projects\Number Guessing\Number Guessing\bin\Debug\Number Guessing.pdb
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number Guessing.csproj.AssemblyReference.cache
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number Guessing.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number_Guessing.MainForm.resources
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number_Guessing.Properties.Resources.resources
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number Guessing.csproj.GenerateResource.cache
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number Guessing.csproj.CoreCompileInputs.cache
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number Guessing.exe
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number Guessing.pdb
+D:\Projects\Number Guessing\Number Guessing\bin\Debug\Number Guessing.exe.manifest
+D:\Projects\Number Guessing\Number Guessing\bin\Debug\Number Guessing.application
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number Guessing.exe.manifest
+D:\Projects\Number Guessing\Number Guessing\obj\Debug\Number Guessing.application
