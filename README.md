@@ -16,4 +16,4 @@ Barkóba játék program, amely kitalál egy számot és a játékos ki kell tal
 - Hangok, amelyek színesítik az élményt.
 - Ikon pack amelyek segítik a játékmenetet.
 - Jobb alul található "lan" feliratú gombbal bármikor magyar nyelvre lehet állítani a játékot. Alapértelmezett az Angol nyelv.
-> FIGYELEM: A program tartalmazhat hibákat/bugokat, ezek a késöbbiek folyamán javítva lesz.
+> FIGYELEM: A program tartalmazhat hibákat/bugokat, ezek a késöbbiek folyamán javítva lesznek.
